@@ -8,11 +8,11 @@
 
  
 
-:computer: I'm Front-End Developer!
+:computer: I'm a data analyst by training!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently learning SQL, Pyhton and Power BI.
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
@@ -20,9 +20,9 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/AlineDamas)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( https://www.linkedin.com/in/aline-damasceno-111144aa/)
 
 ## Contact
 <code><https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
