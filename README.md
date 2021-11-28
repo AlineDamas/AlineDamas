@@ -15,7 +15,8 @@
 
 :books: I’m currently learning SQL, Pyhton and Power BI.
 
-:outbox_tray: 2022 Goals:  Find a new job and join a project.
+:outbox_tray: 2022 Goals:  Find a new job and join a project. I am currently undergoing training in Data Analytics at the Data Science Academy. I am eager to understand and explore data as much as possible in order to find solutions and results to help an institution or company. :blush:
+
 
  
 
