@@ -35,9 +35,11 @@
 <div>
 <a href="https://github.com/AlineDamas">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineDamas&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlineDamas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" <div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlineDamas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/<div>
 
 
+ #Thanks for you Visit!
+ 
 <p align="center">
   <img src="https://tenor.com/view/%E6%8B%9C%E6%8B%9C-%E5%86%8D%E8%A7%81-%E5%90%B9%E6%B0%94%E7%90%83-bye-balloon-gif-13939459.gif" width="350">" 
 </p>
