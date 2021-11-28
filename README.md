@@ -29,13 +29,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/aline-damasceno-111144aa/)]( https://linkedin.com/in/aline-damasceno-111144aa/)
 
 ## Contact
-![Google Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=alimoreiradamas@gmail.com)
+<div>
+<a href = "mailto:alimoreiradamas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
     
 ## I am learning the following tools and languages: 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/ i class="devicon-microsoftsqlserver-plain-wordmark colored"/i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" i class="devicon-microsoftsqlserver-plain-wordmark colored"/i>
 
 ![AlineDamas GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineDamas&show_icons=true&theme=radical)
 
