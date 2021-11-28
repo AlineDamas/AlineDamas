@@ -27,7 +27,9 @@
 ## Contact
 ![Google Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox)
     
- ![AlineDamas GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineDamas)](https://github.com/AlineDamas/github-readme-stats)
+## Learned
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/AlineDamas)
+![AlineDamas GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineDamas)
 
 - Thanks for visiting.
 
