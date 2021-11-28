@@ -13,7 +13,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-🔦 I'm use Light Theme 
+🔦 I'm use Light Theme  :laughing:
 
 :books: I’m currently learning SQL, Pyhton and Power BI.
 
