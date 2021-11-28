@@ -32,11 +32,13 @@
 ## I am learning the following tools and languages: 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
+
+
 <div>
 <a href="https://github.com/AlineDamas">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineDamas&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlineDamas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-     </div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlineDamas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 Thanks for your visit 
  
