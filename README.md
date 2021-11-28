@@ -31,7 +31,7 @@
     
 ## Tools and Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineDamas&layout=compact)
-![AlineDamas GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineDamas)
+[!Top Langs] ([![AlineDamas GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineDamas)](https://github.com/AlineDamas/github-readme-stats)![AlineDamas GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineDamas)
 
 - Thanks for visiting.
 
