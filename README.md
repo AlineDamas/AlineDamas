@@ -22,17 +22,20 @@
 
 ## About me
 
-No linkedin, coloco minha formação e meu trajeto até os dias atuais. Em meu github vou colocar meus projetos iniciais assim como resultados de atividades realizadas
+:diamond_shape_with_a_dot_inside: PT No linkedin, coloco minha formação e meu trajeto até os dias atuais. Em meu github vou colocar meus projetos iniciais assim como resultados de atividades realizadas
 nos cursos online que faço:
 
- On linkedin, I post my background and my journey to the present day.In my github I will put my initial projects and the results of activities I have done
+:diamond_shape_with_a_dot_inside: EN On linkedin, I post my background and my journey to the present day.In my github I will put my initial projects and the results of activities I have done
 in the online courses I take:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AlineDamas)](https://github.com/AlineDamas) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/aline-damasceno-111144aa/)]( https://linkedin.com/in/aline-damasceno-111144aa/)
 
 ## Contact
 
+:diamond_shape_with_a_dot_inside: PT 
 Você pode falar comigo também me enviando um email  🔽
+:diamond_shape_with_a_dot_inside: EN
+You can talk to me also by sending me an email 🔽
 <div>
 <a href = "mailto:alimoreiradamas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
