@@ -8,7 +8,7 @@
 
  
 
-📊: I'm a data analyst by training!
+📊 I'm a data analyst by training!
 
 :house_with_garden: I’m from Brazil.
 
