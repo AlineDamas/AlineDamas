@@ -6,21 +6,14 @@
 
 ## I'm Aline Damasceno!
 
-
  
 
 📊 I'm a data analyst by training!
-
 :house_with_garden: I’m from Brazil.
-
+:balloon:Tenho 29 anos
 🔦 I'm use Light Theme  :laughing:
-
 :books: I’m currently learning SQL, Pyhton and Power BI.
-
 :outbox_tray: 2022 Goals:  Find a new job and join a project. In addition to this, I'm currently undergoing training in Data Analytics at the Data Science Academy. I am looking forward to understand and explore data as much as possible in order to find solutions and results to help an institution or company.  :blush:
-
-
- 
 
 ## About me
 
@@ -34,16 +27,17 @@
 ## I am learning the following tools and languages: 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
-
 <div>
 <a href="https://github.com/AlineDamas">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineDamas&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlineDamas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/ <div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlineDamas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/div>
 
 Thanks for visiting.
 
+< p align=" center"> 
+  <img src = "https://tenor.com/view/%E6%8B%9C%E6%8B%9C-%E5%86%8D%E8%A7%81-%E5%90%B9%E6%B0%94%E7%90%83-bye-balloon-gif-13939459" width="350">
+</p>
 
-https://tenor.com/view/%E6%8B%9C%E6%8B%9C-%E5%86%8D%E8%A7%81-%E5%90%B9%E6%B0%94%E7%90%83-bye-balloon-gif-13939459
 ----------------------------------------------------------------------------------
 
 
