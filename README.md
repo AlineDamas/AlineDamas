@@ -29,10 +29,14 @@
 ## Contact
 ![Google Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=alimoreiradamas@gmail.com)
     
-## Tools and Languages
+## I am learning the following tools and languages: 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" /> 
+
 ![AlineDamas GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineDamas&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineDamas&layout=compact)](https://github.com/AlineDamas/github-readme-stats)
 
 - Thanks for visiting.
 
