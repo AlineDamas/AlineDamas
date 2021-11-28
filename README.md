@@ -37,7 +37,6 @@
 
 ![AlineDamas GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineDamas&show_icons=true&theme=radical)
 
-
 - Thanks for visiting.
 
 - Enjoy it!! o/
