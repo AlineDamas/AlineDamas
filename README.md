@@ -30,7 +30,8 @@
 ![Google Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox)
     
 ## Tools and Languages
-[!Top Langs] ([![AlineDamas GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineDamas)](https://github.com/AlineDamas/github-readme-stats)![AlineDamas GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineDamas)
+![Top Langs]([![AlineDamas GitHub stats](https://github-readme-stats.vercel.app/top.langs/?username=AlineDamas&layout=compact)](https://github.com/AlineDamas/github-readme-stats)
+![AlineDamas GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineDamas)
 
 - Thanks for visiting.
 
