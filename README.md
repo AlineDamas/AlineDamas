@@ -43,7 +43,7 @@
  
 <p 
    align="center">
-  <img src="https://tenor.com/view/%E6%8B%9C%E6%8B%9C-%E5%86%8D%E8%A7%81-%E5%90%B9%E6%B0%94%E7%90%83-bye-balloon-gif-13939459.gif" width="350">" 
+  <img src="https://tenor.com/view/%E6%8B%9C%E6%8B%9C-%E5%86%8D%E8%A7%81-%E5%90%B9%E6%B0%94%E7%90%83-bye-balloon-gif-13939459.gif" width="350">
 </p>
 
 
