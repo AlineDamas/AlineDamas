@@ -25,7 +25,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/aline-damasceno-111144aa/)
 
 ## Contact
-[![Google Badge].(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white= LINK_GMAIL).](https://mail.google.com/mail/u/0/#inbox)
+(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white= LINK_GMAIL).](alimoreiradamas@gmail.com)
     
  [![AlineDamas GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineDamas)](https://github.com/AlineDamas/github-readme-stats)
 
