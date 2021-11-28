@@ -8,13 +8,13 @@
 
  
 
-:computer: I'm a data analyst by training!
+📊: I'm a data analyst by training!
 
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning SQL, Pyhton and Power BI.
 
-:outbox_tray: 2022 Goals: create a new project and find a new job.
+:outbox_tray: 2022 Goals:  Find a new job and join a project.
 
  
 
