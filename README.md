@@ -25,6 +25,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AlineDamas)](https://github.com/AlineDamas) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/aline-damasceno-111144aa/)]( https://linkedin.com/in/aline-damasceno-111144aa/)
 
 ## Contact
+
+Você pode falar comigo também me enviando um email 
 <div>
 <a href = "mailto:alimoreiradamas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
@@ -46,7 +48,3 @@
   <img src="https://tenor.com/view/%E6%8B%9C%E6%8B%9C-%E5%86%8D%E8%A7%81-%E5%90%B9%E6%B0%94%E7%90%83-bye-balloon-gif-13939459.gif" width="350">
 </p>
 
-
-<br>
- Thanks for you Visit
- </br>
