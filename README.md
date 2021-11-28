@@ -34,6 +34,7 @@ in the online courses I take:
 
 :diamond_shape_with_a_dot_inside: PT :
 Você pode falar comigo também me enviando um email  🔽
+
 :diamond_shape_with_a_dot_inside: EN :
 You can talk to me also by sending me an email 🔽
 <div>
