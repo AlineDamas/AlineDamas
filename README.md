@@ -4,7 +4,8 @@
 
  
 
-## I'm (Aline Damasceno)!
+## I'm Aline Damasceno!
+
 
  
 
