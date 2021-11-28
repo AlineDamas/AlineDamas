@@ -32,7 +32,7 @@
 ## Tools and Languages
 ![AlineDamas GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineDamas&show_icons=true&theme=radical)
 
-![AlineDamas GitHub stats](https://github-readme-stats.vercel.app/api?username=AlineDamas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineDamas&layout=compact)](https://github.com/AlineDamas/github-readme-stats)
 
 - Thanks for visiting.
 
