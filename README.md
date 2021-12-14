@@ -18,7 +18,8 @@
 
 :books: I’m currently learning SQL, Pyhton and Power BI.
 
-:outbox_tray: 2022 Goals:  Find a new job and join a project. In addition to this, I'm currently undergoing training in Data Analytics at the Data Science Academy. I am looking forward to understand and explore data as much as possible in order to find solutions and results to help an institution or company.  :blush:
+:outbox_tray: 2022 Goals:  
+I am looking to find a new job to help and assist with my knowledge on some project.To that end, I am currently undergoing training in Data Analytics through the Academy of Data Science. In this training, I am developing skills in data manipulation with Python, R, SQL and Power Bi. I hope to soon share my acquired knowledge here. As a professional, I hope to explore data as much as possible, to find solutions and results to help an institution or company.  :blush:
 
 ## About me
 
