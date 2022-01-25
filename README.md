@@ -10,7 +10,7 @@
 
 📊 I'm a data analyst by training!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Brazil and Geographer 🗺️
 
 :balloon:I'm 29 anos
 
