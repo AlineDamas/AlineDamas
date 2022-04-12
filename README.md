@@ -10,11 +10,7 @@
 
 📊 I'm a Data Analyst and Business Intelingence Analyst by training.
 
-:house_with_garden: I’m from Brazil and Geographer 🗺️
-
-:balloon:I'm 29 anos
-
-🔦 I'm use Light Theme  :laughing:
+:house_with_garden: I’m from Brazil,Geographer and Master in Geology, but  🗺️
 
 :books: I’m currently learning SQL, Pyhton, R and Power BI.
 
