@@ -8,7 +8,7 @@
 
  
 
-📊 I'm a data analyst by training!
+📊 I'm a Data Analyst and Business Intelingence Analyst by training.
 
 :house_with_garden: I’m from Brazil and Geographer 🗺️
 
@@ -19,7 +19,7 @@
 :books: I’m currently learning SQL, Pyhton, R and Power BI.
 
 :outbox_tray: 2022 Goals:  
-I am looking to find a new job to help and assist with my knowledge on some project.To that end, I am currently undergoing training in Data Analytics through the Academy of Data Science. In this training, I am developing skills in data manipulation with Python, R, SQL and Power Bi. I hope to soon share my acquired knowledge here. As a professional, I hope to explore data as much as possible, to find solutions and good results .  :blush:
+Hello, I am currently entering the world of data and here I will present my progress in some tools. I am studying post-graduation in Analytics and Business Intelligence at Pontifica Universidade Católica de Minas (PUC-MINAS), and in parallel I am doing the Data Analyst Training course at Data Science Academy (DSAS). In this training, I am developing skills in data manipulation with Python, R, SQL and Power Bi, and as a bonus the Julia language.  :blush:
 
 ## About me
 
