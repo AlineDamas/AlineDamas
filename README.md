@@ -8,7 +8,7 @@
 
  
 
-📊 I'm a Data Analyst and Business Intelingence Analyst by training.
+📊 I'm a Data Analyst and Business intelligence Analyst by training.
 
 :house_with_garden: I’m from Brazil,Geographer and Master in Geology, but I am taking the data path as the current goal. Because I am very interested in going deeper and learning more about how I can explore more and more of the analytical universe.  🗺️
 
