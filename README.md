@@ -15,8 +15,6 @@
 
 ✔️ Estou também em processo de formação no Bootcamp em Ciências de Dados no Atlântico Academy;
 
-✔️ E por fim, atuo como estagiária de analista de dados.
-
  👩‍💻Divulgo meus estudos aqui : https://github.com/AlineDamas
 
 ✨ Bye!
