@@ -5,8 +5,6 @@
 ## I'm Aline Damasceno!
 📊 I'm a Data Analyst and Business intelligence Analyst by training.
 
-~Me chamo Aline e em 2021 decidi definitivamente migrar para a área de análise de dados/business intelligence/Ciências de dados, e para isso venho estudando e aprimorando meus conhecimentos com algumas atividades que decidi listar abaixo para te explicar melhor:
-
 🚀 Sou estudante de pós graduação em Analytics e Business Inteligence pela PUC-minas, e também estou em treinamento pela Data Science Academy (DSA) realizando o curso de Formação Analista de Dados. (Em andamento)
 
 ✔️ Na formação de Analista de Dados, estou desenvolvendo habilidades nas linguagens de programação Python, R e futuramente Julia, no entanto, possuo mais habilidade hoje em python. Ainda na mesma formação, também estudando sobre manipulação de bancos de dados, utilizando SQL, trabalhando com banco de dados no MySQL. Já para a etapa de visualização e construção de dashboards, utilizo o Power Bi.
