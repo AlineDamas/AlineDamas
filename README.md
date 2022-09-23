@@ -14,7 +14,7 @@
 
 ## Contact
 
-:diamond_shape_with_a_dot_inside: PT :
+:diamond_shape_with_a_dot_inside:
 Você pode falar comigo também me enviando um email  🔽
 <div>
 <a href = "mailto:alimoreiradamas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
