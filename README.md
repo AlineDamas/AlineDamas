@@ -1,5 +1,5 @@
-### Hi there 👋
-## I'm Aline Damasceno!
+### Olá 👋
+## Me chamo Aline Damasceno!
 📊 Sou analista/cientista de dados em treinamento.
 
 🚀 Sou estudante de pós graduação em Analytics e Business Inteligence pela PUC-minas, e também estou 
