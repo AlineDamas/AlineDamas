@@ -1,19 +1,9 @@
 ### Hi there 👋
-
-# Welcome! Bem Vindo!
-
 ## I'm Aline Damasceno!
 📊 I'm a Data Analyst and Business intelligence Analyst by training.
-
-🚀 Sou estudante de pós graduação em Analytics e Business Inteligence pela PUC-minas, e também estou em treinamento pela Data Science Academy (DSA) realizando o curso de Formação Analista de Dados. (Em andamento)
-
-✔️ Na formação de Analista de Dados, estou desenvolvendo habilidades nas linguagens de programação Python, R e futuramente Julia, no entanto, possuo mais habilidade hoje em python. Ainda na mesma formação, também estudando sobre manipulação de bancos de dados, utilizando SQL, trabalhando com banco de dados no MySQL. Já para a etapa de visualização e construção de dashboards, utilizo o Power Bi.
-
-✔️ Em minha pós-graduação em Analytics e Business Inteligence, estou construindo e aprofundando os conhecimentos principalmente em banco de dados (Relacional e Não relacional), para os projetos de disciplinas utilizei Redis, MongoDB, Oracle APEX e Neo4J(para banco de dados de grafos) , e em paralelo a esse conhecimento, espero desenvolver a habilidade de compreensão de problemas de negócios em projetos que exijam soluções analíticas mais complexas, assim como a aplicação de ferramentas de gestão e sua associação com métodos, técnicas relacionadas a ciência de dados. 
-
-✔️ Estou também em processo de formação no Bootcamp em Ciências de Dados no Atlântico Academy;
-
- 👩‍💻Divulgo meus estudos aqui : https://github.com/AlineDamas
+🚀 Sou estudante de pós graduação em Analytics e Business Inteligence pela PUC-minas, e também estou 
+✔️ Em treinamento pela Data Science Academy (DSA) realizando o curso de Formação Analista de Dados. (Em andamento)
+✔️ Estou também em processo de formação no Bootcamp em Ciências de Dados no Atlântico Academy.
 
 ✨ Bye!
 
