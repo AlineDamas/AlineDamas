@@ -1,8 +1,11 @@
 ### Hi there 👋
 ## I'm Aline Damasceno!
 📊 I'm a Data Analyst and Business intelligence Analyst by training.
+
 🚀 Sou estudante de pós graduação em Analytics e Business Inteligence pela PUC-minas, e também estou 
+
 ✔️ Em treinamento pela Data Science Academy (DSA) realizando o curso de Formação Analista de Dados. (Em andamento)
+
 ✔️ Estou também em processo de formação no Bootcamp em Ciências de Dados no Atlântico Academy.
 
 ✨ Bye!
