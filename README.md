@@ -8,11 +8,11 @@
 
 ✔️ Estou também em processo de formação no Bootcamp em Ciências de Dados no Atlântico Academy.
 
-## About me
+## Sobre mim
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AlineDamas)](https://github.com/AlineDamas) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/aline-damasceno-111144aa/)]( https://linkedin.com/in/aline-damasceno-111144aa/)
 
-## Contact
+## Contato
 
 :diamond_shape_with_a_dot_inside:
 Você pode falar comigo também me enviando um email  🔽
