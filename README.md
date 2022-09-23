@@ -24,7 +24,7 @@ Você pode falar comigo também me enviando um email  🔽
 <a href = "mailto:alimoreiradamas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
     
-## Estou aprendendo as seguintes ferramentas e idiomas: 
+## Estou aprendendo as seguintes ferramentas : 
 
 :diamond_shape_with_a_dot_inside: PT : Estas são linguagens que estou aprendendo diariamente nos meus estudos 🔽
 
