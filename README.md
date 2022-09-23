@@ -8,8 +8,6 @@
 
 ✔️ Estou também em processo de formação no Bootcamp em Ciências de Dados no Atlântico Academy.
 
-✨ Bye!
-
 ## About me
 
 :diamond_shape_with_a_dot_inside:
