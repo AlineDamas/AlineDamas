@@ -2,7 +2,7 @@
 ## Me chamo Aline Damasceno!
 📊 Sou analista/cientista de dados em treinamento.
 
-🚀 Sou estudante de pós graduação em Analytics e Business Inteligence pela PUC-minas, e também estou 
+🚀 Sou estudante de pós graduação em Analytics e Business Inteligence pela PUC-minas;
 
 ✔️ Em treinamento pela Data Science Academy (DSA) realizando o curso de Formação Analista de Dados. (Em andamento)
 
