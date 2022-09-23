@@ -10,8 +10,6 @@
 
 ## About me
 
-:diamond_shape_with_a_dot_inside:
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AlineDamas)](https://github.com/AlineDamas) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/aline-damasceno-111144aa/)]( https://linkedin.com/in/aline-damasceno-111144aa/)
 
 ## Contact
