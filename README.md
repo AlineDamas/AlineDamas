@@ -6,6 +6,8 @@
 
 ✔️ Em treinamento pela Data Science Academy (DSA) realizando o curso de Formação Analista de Dados. (Em andamento)
 
+*Atualmente atuo como analista de Business Intelligence na Universidade de Fortaleza.
+
 ## Sobre mim
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AlineDamas)](https://github.com/AlineDamas) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/aline-damasceno-111144aa/)]( https://linkedin.com/in/aline-damasceno-111144aa/)
